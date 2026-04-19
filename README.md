@@ -1,5 +1,8 @@
 # iDar-Pacman-DB
-The official Data Base for iDar-Pacman (for now lol)
+An alternative unofficial database for iDar-Pacman.
+
+I did not create this, all credit goes to DarThunder on GitHub
+* https://github.com/DarThunder/iDar-Pacman-DB
 
 ### Template to add packages:
 ```lua
